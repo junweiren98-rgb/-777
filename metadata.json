@@ -1,0 +1,5 @@
+{
+  "name": "Retro Vinyl Player",
+  "description": "A skeuomorphic vinyl record player experience powered by the iTunes API. Drag and drop records to play music.",
+  "requestFramePermissions": []
+}
